@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sshubam Verma
-- 👀 I’m interested in Machine Learning and its real world applications
-- 🌱 I’m currently learning TensorFlow with mrdbourke's TensorFlow course
+- 👀 I’m interested in How Computer Science can make a change
+- 🌱 I’m currently learning Machine Learning with TensorFlow 
 - 📫 verma.sshubam@gmail.com
 
 <!---
