@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sshubam Verma
 - 👀 I’m interested in How Computer Science can make a change
-- 🌱 I’m currently learning Machine Learning with TensorFlow 
+- 🌱 I’m currently learning Machine Learning with TensorFlow, Keras and PyTorch.
 - 📫 verma.sshubam@gmail.com
 
 <!---
