@@ -2,7 +2,7 @@
 - 👀 I’m interested in How Computer Science can make a change
 - 🌱 I’m currently learning Machine Learning with TensorFlow, Keras and PyTorch.
 - 📫 verma.sshubam@gmail.com
-- My Machine learning tutorials: mlharbour.netlify.app
+- My Machine learning tutorials: https://mlharbour.netlify.app/
 
 <!---
 Sshubam/Sshubam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
